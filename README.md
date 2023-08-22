@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit
-- 👀 I’m interested in everything Automotive. THat would be a long list including things like, microcontrollers, PCB engineering, hardware, telematics, CAN bus, sensors, actuators and simulations
-- 🌱 I’m currently learning
+- 👀 I’m interested in everything Automotive. Simulations, Failure Testing, microcontrollers, PCB engineering, hardware, telematics, CAN bus, sensors, actuators and simulations
+- 🌱 I’m currently learning simulation in Python, building connected vehicle platform 
 - 💞️ I’m looking to collaborate on fullstack development for our tracming platform and hardware engineering.
 - 📫 How to reach me .. just drop me a message here. 
 
